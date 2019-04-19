@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="crawler_log_analyser:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="crawler_log_analyser.war">
+      <element id="artifact" artifact-name="crawler_log_analyser:war exploded" />
+    </root>
+  </artifact>
+</component>
