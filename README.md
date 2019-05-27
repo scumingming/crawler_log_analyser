@@ -1,5 +1,5 @@
 # GoldenEye - 金睛反爬系统
-GoldenEye（金睛）是一套基于spring MVC编写的RESTFUL架构的http服务，前台页面或者客户端可以通过http接口请求接口服务与系统交互。系统需要配合iprobe、Aerospike(v3版本)、ksql(v4版本)、pipelinedb等组件实现整套反爬服务。
+GoldenEye（金睛）是一套基于spring MVC编写的RESTFUL架构的http服务，前台页面或者客户端可以通过http接口请求接口服务与系统交互。系统需要配合iprobe、Aerospike(v3版本)/ksql(v4版本)、pipelinedb等组件实现整套反爬服务。
 
 
 # Deployment
